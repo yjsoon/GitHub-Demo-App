@@ -12,7 +12,7 @@ struct ContentView: View {
         TabView {
             YJView()
                 .tabItem {
-                    Label("YJ", systemImage: "trash")
+                    Label("YJ Soon", systemImage: "trash")
                 }
             Text("Hi world")
                 .tabItem {
