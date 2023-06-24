@@ -12,6 +12,7 @@
 		AF85B3B32A467FD0004BAA05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF85B3B22A467FD0004BAA05 /* Assets.xcassets */; };
 		AF85B3B62A467FD0004BAA05 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF85B3B52A467FD0004BAA05 /* Preview Assets.xcassets */; };
 		AF85B3BD2A468121004BAA05 /* YJView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF85B3BC2A468121004BAA05 /* YJView.swift */; };
+		F14F37A62A4684C500370CA1 /* AdvaitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14F37A52A4684C500370CA1 /* AdvaitView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		AF85B3B22A467FD0004BAA05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF85B3B52A467FD0004BAA05 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AF85B3BC2A468121004BAA05 /* YJView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YJView.swift; sourceTree = "<group>"; };
+		F14F37A52A4684C500370CA1 /* AdvaitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvaitView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				AF85B3AE2A467FCE004BAA05 /* GitHub_Demo_AppApp.swift */,
 				AF85B3B02A467FCE004BAA05 /* ContentView.swift */,
+				F14F37A52A4684C500370CA1 /* AdvaitView.swift */,
 				AF85B3BC2A468121004BAA05 /* YJView.swift */,
 				AF85B3B22A467FD0004BAA05 /* Assets.xcassets */,
 				AF85B3B42A467FD0004BAA05 /* Preview Content */,
@@ -143,6 +146,7 @@
 				AF85B3B12A467FCE004BAA05 /* ContentView.swift in Sources */,
 				AF85B3BD2A468121004BAA05 /* YJView.swift in Sources */,
 				AF85B3AF2A467FCE004BAA05 /* GitHub_Demo_AppApp.swift in Sources */,
+				F14F37A62A4684C500370CA1 /* AdvaitView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
