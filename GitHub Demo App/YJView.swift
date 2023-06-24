@@ -14,6 +14,7 @@ struct YJView: View {
                 .font(.system(size: 300))
             Text("HELLO FELLOW GARBAGE PEOPLE")
                 .font(.largeTitle)
+            Text("lololol")
         }
     }
 }
